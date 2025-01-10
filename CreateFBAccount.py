@@ -115,7 +115,7 @@ element.send_keys(email)
 # remplir le formulaire name=="reg_passwd__"
 element = driver.find_element(By.NAME, "reg_passwd__")
 # Set password
-password = "SETYOURPASSWORDHERE"
+password = "Mahal09051294404Donrel179"
 element.send_keys(password)
 
 # remplir le formulaire name="birthday_day"
